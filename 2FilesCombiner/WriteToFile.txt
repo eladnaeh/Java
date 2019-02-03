@@ -1,0 +1,3 @@
+elad,naeh,1234,alliance student, alliance student from 6 years
+nir,kogman,5678,has a computer
+Ido,naeh,2468,elad's brother
